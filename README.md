@@ -32,7 +32,7 @@ The data for this analysis was obtained from [Amazon's Best Sellers list](https:
 
 * Name - Name of the book
 * Author - Author of the book
-* User Rating - Ratings given by users in Amazon(out of 5)
+* User Rating - Ratings given by users on Amazon(out of 5)
 * Reviews - Number of written reviews on Amazon
 * Price - The price of the book (As of 13/10/2020)
 * Year - The Year(s) it ranked on the bestseller
@@ -41,7 +41,7 @@ The data for this analysis was obtained from [Amazon's Best Sellers list](https:
 ## License
 This project is licensed under the [MIT License](LICENSE).
 ---------------------------------------------------------- 
-**This project is done as assignment of data science training under NCC and [Maladeep Upadhaya](https://github.com/maladeep) sir.** 
+**This project is done as an assignment of data science training under NCC and [Maladeep Upadhaya](https://github.com/maladeep) sir.** 
 
 
 
